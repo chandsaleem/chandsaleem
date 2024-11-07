@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Chand Saleem!
 
-<!--
+
 **chandsaleem/chandsaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 💻 Technologies I Work With
@@ -22,4 +22,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
