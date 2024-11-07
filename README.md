@@ -4,6 +4,7 @@
 **chandsaleem/chandsaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 💻 Technologies I Work With
+![Python](https://camo.githubusercontent.com/1a0d187b21827e674e72a1fc076eeeff87ab69d7a5839b41c61b545a63636641/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f707974686f6e2d2d76312e706e67)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
