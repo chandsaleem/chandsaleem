@@ -2,7 +2,7 @@
 
 ### 💻 Technologies I Work With
 
-![Python](https://camo.githubusercontent.com/1a0d187b21827e674e72a1fc076eeeff87ab69d7a5839b41c61b545a63636641/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f707974686f6e2d2d76312e706e67)
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
