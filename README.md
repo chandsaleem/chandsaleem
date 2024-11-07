@@ -14,6 +14,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 
+![Java](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000)
 
 - 🔭 I’m currently working on Java J2EE with JaxRs
 - 🌱 I’m currently learning about LLM's and Spring Boot
