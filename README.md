@@ -3,21 +3,13 @@
 ### 💻 Technologies I Work With
 
 ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
-
 ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
-
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-
 ![Postman](https://img.icons8.com/color/48/000000/postman-api.png)
 
 
