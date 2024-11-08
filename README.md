@@ -12,7 +12,6 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Postman](https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000)
 
-
 - 🔭 I’m currently working on Java J2EE with JaxRs
 - 🌱 I’m currently learning about LLM's and Spring Boot
 - 👯 I’m looking to collaborate on java based Applications
