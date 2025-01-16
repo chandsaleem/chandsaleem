@@ -10,7 +10,7 @@
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-![Postman](https://icons8.com/icon/32VTxWwd6gOB/postman-api)
+![Postman](https://img.icons8.com/?size=100&id=32VTxWwd6gOB&format=png&color=000000)
 
 - 🔭 I’m currently working on Java J2EE with JaxRs
 - 🌱 I’m currently learning about LLM's and Spring Boot
