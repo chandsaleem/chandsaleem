@@ -12,10 +12,9 @@
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Postman](https://img.icons8.com/?size=48&id=32VTxWwd6gOB&format=png&color=000000)
 
-- 🔭 I’m currently working on Java J2EE with JaxRs
+- 🔭 I am working on backend development with Java EE and JAX-RS
 - 🌱 I’m currently learning about LLM's and Spring Boot
 - 👯 I’m looking to collaborate on java based Applications
-- 🤔 I’m looking for help with ...
 - 💬 Ask me nothing
 - 📫 How to reach me: chandsaleem07@gmail.com
 
