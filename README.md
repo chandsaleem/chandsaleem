@@ -29,3 +29,11 @@ I believe good analysis tells a story. Great analysis drives action.
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![Postman](https://img.icons8.com/?size=48&id=32VTxWwd6gOB&format=png&color=000000)
 https://icons8.com/icon/JChkA69vF7Lo/microsoft-excel-2025
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,py,java,aws,bitbucket,idea,jenkins,mysql,postgres,postman,pycharm" />
+  </a>
+</p>
