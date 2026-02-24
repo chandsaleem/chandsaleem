@@ -20,18 +20,4 @@ I believe good analysis tells a story. Great analysis drives action.
 ### 💻 Technologies I Work With
 
 
-![Skills](https://skillicons.dev/icons?i=java,python,sql,powerbi,excel,aws&theme=dark)
-
-
-
-![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png)
-![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
-![Postman](https://img.icons8.com/?size=48&id=32VTxWwd6gOB&format=png&color=000000)
-https://icons8.com/icon/JChkA69vF7Lo/microsoft-excel-2025
-
+![Tech Stack](https://skillicons.dev/icons?i=git,py,java,aws,bitbucket,idea,jenkins,mysql,postgres,postman,pycharm&theme=dark)
