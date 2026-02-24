@@ -19,5 +19,4 @@ I believe good analysis tells a story. Great analysis drives action.
 
 ### 💻 Technologies I Work With
 
-
-![Tech Stack](https://skillicons.dev/icons?i=git,py,java,aws,bitbucket,idea,jenkins,mysql,postgres,postman,pycharm&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=git,python,java,aws,bitbucket,idea,jenkins,mysql,postgres,postman,pycharm&theme=dark)
