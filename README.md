@@ -19,6 +19,7 @@ I believe good analysis tells a story. Great analysis drives action.
 
 ### 💻 Technologies I Work With
 
+<h3 align="center">🛠 Engineering Stack</h3>
 <p align="center">
   <!-- Engineering Stack -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
@@ -33,7 +34,7 @@ I believe good analysis tells a story. Great analysis drives action.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/>
 
-  <!-- Data Stack -->
+<h3 align="center">📊 Data & Analytics Stack</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/>
