@@ -20,7 +20,7 @@ I believe good analysis tells a story. Great analysis drives action.
 ### 💻 Technologies I Work With
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,py,java,aws,bitbucket,idea,jenkins,mysql,postgres,postman,pycharm)](https://skillicons.dev)
 
 ![Python](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
